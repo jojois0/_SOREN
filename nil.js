@@ -1,4 +1,4 @@
 
 fixed 
-5.02
+5.2
 https://discord.gg/Uk6a3SKMAw
