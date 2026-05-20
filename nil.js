@@ -1,4 +1,4 @@
 
 stable
-25.2
+25.3
 https://discord.gg/Uk6a3SKMAw
