@@ -1,3 +1,3 @@
-# soren-env
+# _SOREN
 
-support my env at https://discord.gg/wKcV6Q4r9M
+support soren at https://discord.gg/wKcV6Q4r9M
